@@ -172,3 +172,4 @@ cython_debug/
 
 # Google Drive tmp files
 *.tmp.driveupload
+*.tmp.drivedownload
